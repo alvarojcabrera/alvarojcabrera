@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvarojcabrera
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
+- I’m an Economist interested in data science
+- I’m currently persuing a Master´s degree in Data Science
 - 📫 How to reach me: Linkedin: Alvaro José Cabrera
 
 <!---
